@@ -1,2 +1,2 @@
 # Blitz-Hackathon
-Simulation of protein folding and prediction of neurodegenerative diseases using hybrid Quantum AI approach
+Prediction of Neurodegenerative Diseases and Protein Misfolding Simulation for Drug Discovery Using Hybrid Quantum AI
